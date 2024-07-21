@@ -3,7 +3,7 @@
 Hi There! 👋, I'm Shruti Singh<br>Welcome to my profile! I'm a student, aspiring MEAN stack developer, excited to build, develop, and create . Currently working on Frontend development with Angular17. I’m passionate about learning new technologies. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/shruti-singh-10101010101010101010/)!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shruti-singh-10101010101010101010/) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shruti-Singh-00)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishrutisingh1010@gmail.com)

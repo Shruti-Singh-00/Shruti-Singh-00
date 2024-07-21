@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi There! 👋, I'm Shruti Singh</h1><br><h3 align="center">Welcome to my profile! I'm a student, aspiring MEAN stack developer, excited to build, develop, and create . Currently working on Frontend development with Angular17. I’m passionate about learning new technologies. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/shruti-singh-10101010101010101010/)!</h3>
+Hi There! 👋, I'm Shruti Singh<br>Welcome to my profile! I'm a student, aspiring MEAN stack developer, excited to build, develop, and create . Currently working on Frontend development with Angular17. I’m passionate about learning new technologies. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/shruti-singh-10101010101010101010/)!
 
 
 ## 🌐 Socials:

@@ -24,5 +24,7 @@ Welcome to my profile! I'm a student who is strongly inclined toward Web develop
 ---
 <p align="center">
     Show ❤️ by starring and forking repositories you find good!
+</p>
+<p align="center">
     Thanks for visiting.
 </p>

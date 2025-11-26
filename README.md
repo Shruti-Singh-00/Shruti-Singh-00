@@ -2,10 +2,10 @@
 
 Welcome to my profile! I'm a student who is strongly inclined toward Web development, currently working on Frontend development with Angular17. I have contributed and won "Smart India Hackathons 2023", I’m passionate about learning new technologies. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/shruti-singh-10101010101010101010/)!
 
-* 🌍  I'm based in New Delhi
-* ✉️  You can contact me at [ishrutisingh1010@gmail.com](mailto:ishrutisingh1010@gmail.com)
-* 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on web projects
+*🌍 Based in India
+*✉️ Reach me at: ishrutisingh1010@gmail.com
+*🧠 Currently expanding my skills in modern web technologies
+*🤝 Open to collaborating on impactful and innovative projects
 
 ---
 ## 🌐 Socials:
@@ -28,3 +28,4 @@ Welcome to my profile! I'm a student who is strongly inclined toward Web develop
 <p align="center">
     Thanks for visiting.
 </p>
+
